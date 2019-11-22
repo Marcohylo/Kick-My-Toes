@@ -1,0 +1,105 @@
+@font-face {
+    src: url(fonts/Swistblnk_Neamants_Free.ttf);
+    font-family: neam;
+}
+
+.square{
+        width: 150px;
+        height: 150px;
+        text-align: center;
+        font-size: 90pt;
+        font-family: neam;
+        color: black;
+        border-right:10px solid black;
+        border-bottom: 10px solid #000;;
+    }
+
+    
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: red;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/78/15/5357c1134214124.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;
+}
+
+.font1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-shadow:2px 2px black;
+
+}
+
+.border{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.square1{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 90pt;
+    font-family: neam;
+    border-bottom: 10px solid black;
+    color: black;
+    border-right:10px solid #000;
+}
+
+.square2{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    color:black;
+    font-size: 90pt;
+    font-family: neam;
+    border-bottom:10px solid #000;
+    border-right: 10px solid black;
+}
+
+.square3{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 90pt;
+    font-family: neam;
+    border-bottom: 10px solid black;
+    color: black;
+    
+}
+
+.body {
+    color:green;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-shadow:2px 2px black;
+}
+
+.square4{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 90pt;
+    font-family: neam;
+    color: black;
+    border-right:10px solid black;
+}
+
+.square5{
+    border-right: 10px solid black;
+    font-size: 90pt;
+    font-family: neam;
+    color: black;
+    
+}
+
+.square6{
+    color: black;
+    font-size: 90pt;
+    font-family: neam;
+}
